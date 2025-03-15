@@ -177,7 +177,7 @@ export function SideBar(props: { className?: string }) {
           北方测盟AI.
         </div>
         <div className={styles["sidebar-sub-title"]}>
-          北方测盟科技有限公司[测绘室]提供技术支持<br/>【仅供体验.切勿用于生产】<br/>【访问数据存储在您的设备本地.请勿担心隐私问题】
+          北方测盟科技有限公司[测绘室]提供技术支持<br/>仅供体验.切勿用于生产<br/>数据存储在您的设备本地.请勿担心隐私问题
         </div>
         <div className={styles["sidebar-logo"] + " no-dark"}>
           <ChatGptIcon />
