@@ -177,7 +177,7 @@ export function SideBar(props: { className?: string }) {
           Hs自用GPT.
         </div>
         <div className={styles["sidebar-sub-title"]}>
-          官方免费额度调用<br/>仅供体验.请勿滥用<br/>数据存储在您的设备本地<br/>请勿担心隐私问题<br/>访问密码:姓名+手机号
+          官方免费额度调用.<br/>仅供体验.请勿滥用.<br/>数据存储在您的设备本地.<br/>请勿担心隐私问题.<br/>访问密码:我的手机号
         </div>
         <div className={styles["sidebar-logo"] + " no-dark"}>
           <ChatGptIcon />
